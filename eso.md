@@ -58,7 +58,7 @@ This document shall be referred to as "ESO".
 * 2.3\. The Election Committee shall accept the nomination of any Club Member who follows the procedure mentioned in Clause 2.2.
 * 2.4\. The Election Committee shall have the right to reject the nomination of any Club Member who deviates from the procedure mentioned in Clause 2.2.
 * 2.5\. Any Club Member whose nomination is rejected by the Election Committee shall have the right to a single appeal to the Election Committee. The Election Committee's decision following an appeal is final thereafter. The appeal must be submitted, in writing, to an Election Committee member.
-* 2.6\. A Club Member may be nominated to at most one position in any particular election.
+* 2.6\. Each nomination of a Club Member shall be for exactly one position in the MC as defined in Article IV.2 of the Constitution. A Club Member shall be nominated at most once in a given election.
 * 2.7\. Every Nominee shall uphold the ESO, Constitution, NUS Student Code of Conduct and NUS Statutes and Regulations during the election.
 * 2.8\. No Nominee shall buy votes from Club Members by any means of exchange and/or extort votes from Club Members by means of any kind of threat
 * 2.9\. Any Nominee found to have contravened Clause 2.7 and/or 2.8 shall be referred by the Elections Committee to the incumbent MC's Presidential Cell for disciplinary action.
@@ -81,6 +81,26 @@ This document shall be referred to as "ESO".
     * 3.4.4\. Only Club Members are allowed to ask questions during the speeches. 
     * 3.4.5\. The Election Committee shall have the right to disallow questions that are, in the opinion of the Election Committee, derogatory and/or malicious.
     * 3.4.6\. Every Nominee is required to answer any question posed to him by Club Members, except those disallowed under Clause 3.4.5.
+
+
+## 4. Polling Period
+
+* 4.1\. Voting is carried out by means of a paper ballot administered by the Election Committee.
+    * 4.1.1\. The paper ballot shall be carried out in a secure room to which extended access is permitted only to the Election Committee.
+    * 4.1.2\. At the end of each polling day, the Election Committee shall place the ballot boxes in a secure room to which access is permitted only to the Election Committee.
+* 4.2\. Each Club Member shall have exactly one vote. All other persons shall have no voting rights.
+* 4.3\. Voting by proxy is permitted.
+    * 4.3.1\. The proxy shall be a Club Member.
+    * 4.3.2\. Each Club Member shall be a proxy for at most two (2) Club members.
+    * 4.3.3\. A Club Member who has chosen to vote by proxy shall not be allowed to cast a vote in person.
+* 4.4\. If two or more Nominees are contesting a position, the Nominee who receives a greatest net vote of confidence for that position shall be deemed elected to that position.
+    * 4.4.1\. The net vote of confidence for a Nominee for a particular position shall be defined as the number resulting from the subtraction of the number of votes of no confidence from the number of votes of confidence for that Nominee and position.
+* 4.5\. If there is exactly one Nominee for a position, the Nominee shall be deemed elected to that position if and only if he receives at least 75 votes and at least 75% of the votes he receives are votes of confidence.
+* 4.6\. In the event that two or more nominees are contesting a position and there is more than one nominee with the greatest net vote of confidence,
+    * 4.6.1\. If the position in question is that of President, the incumbent President shall be allowed to cast the deciding vote.
+    * 4.6.2\. If the position in question is any position apart from President,
+        * 4.6.2.1\. If the President has been elected, the President-elect shall be allowed to cast the deciding vote.
+        * 4.6.2.2\. If the President has not been elected, the incumbent President shall be allowed to cast the deciding vote.
 
 
 
