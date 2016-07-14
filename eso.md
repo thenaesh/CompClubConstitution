@@ -103,4 +103,12 @@ This document shall be referred to as "ESO".
         * 4.6.2.2\. If the President has not been elected, the incumbent President shall be allowed to cast the deciding vote.
 
 
+## 5. Contigencies and By-Elections
+
+* 5.1\. If any of the positions of President, Vice-President (External Relations), Vice-President (Operations & Projects), Vice-President (Human Resource & Development), General Secretary, and/or Finance Secretary are left vacant at the end of an election, by-elections shall be carried out until the position is filled.
+* 5.2\. If any position not listed in Clause 5.1 is left vacant at the end of an election, an attempt shall first be made to fill the position by co-opting. Should the position still be vacant after the attempt to fill the position by co-opting, by-elections shall be carried out until the position is filled.
+    5.2.1\. Only Club Members otherwise eligible to be nominated for a position may be co-opted to that position.
+    5.2.2\. The process of co-opting for elected positions shall be the same as the process of co-opting Deputy Directors, as defined in Article IV.5 of the Constitution.
+* 5.3\. A by-election shall follow all the rules of an election as defined in the ESO, with the exception of the appointment of the Election Committee. The Election Committee for a given by-election shall be the same as that of the election or by-election directly preceding the aforementioned by-election.
+* 5.4\. Should an elected position be left vacant after an election, the member of the incumbent MC holding that position shall remain in office until aforementioned position is filled pursuant to either Clause 5.1 or Clause 5.2.
 
