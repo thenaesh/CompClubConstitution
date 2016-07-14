@@ -4,9 +4,13 @@
 ## Definitions
 
 The NUS Students' Computing Club shall be referred to as "Computing Club". The term "Club" shall, unless explicitly indicated, be synonymous with "Computing Club".
+
 The Computing Club Constitution shall be referred to as "Constitution".
+
 The Computing Club Management Committee, as defined in Article IV of the Constitution, shall be referred to as "MC".
+
 Members of Computing Club, as defined in Article III, Clauses 1 and 2 of the Constitution, shall be referred to as "Club Members".
+
 A Club Member who has been nominated in an election shall be referred to as "Nominee". The term "Candidate" shall be synonymous with "Nominee".
 
 Unless otherwise specified, all masculine pronouns used in this document refer equally to all persons.
