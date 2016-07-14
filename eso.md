@@ -16,7 +16,8 @@ This document shall be read together with the Constitution.
 
 ## 0. Election
 * 0.1\. An election shall be held every calendar year for the purpose of filling newly-vacant positions in the MC at the end of a term of office.
-* 0.2\. An Election Committee shall be formed for the purpose of administering any election, and this Election Committee shall be bound by Article 1 of the ESO.
+* 0.2\. An Election Committee shall be formed for the purpose of administering the election, and this Election Committee shall be bound by Article 1 of the ESO.
+* 0.3\. The election shall comprise, in its entirety, a Nomination Period, followed by a Campaigning Period, followed by a Polling Period, followed by a Vote Counting Period, followed by a day of announcement of election results. The Election Period begins with the Nomination Period and concludes with the announcement of election results.
 
 
 ## 1. Election Committee
@@ -31,7 +32,7 @@ This document shall be read together with the Constitution.
 * 1.5\. The Election Officers shall have the following duties:
     * 1.5.1\. To maintain the integrity of the election process
     * 1.5.2\. To enforce the provisions of the ESO
-* 1.6\. The Returning Officer and Election Officers shall be chosen by the incumbent Presidential Cell.
+* 1.6\. The Returning Officer and Election Officers shall be chosen by the incumbent MC's Presidential Cell.
 * 1.7\. The Election Committee shall have the right:
     * 1.7.1\. To reject or invalidate the election of any candidate found to have contravened any part of the ESO
     * 1.7.2\. To invalidate any vote that does not conform to the specifications as dictated by the ESO and/or the Election Committee.
@@ -40,3 +41,19 @@ This document shall be read together with the Constitution.
     * 1.8.2\. All other elected appointments as specified in Article IV.2 of the Constitution
 * 1.9\. No member of the Election Committee for a particular election shall also be a nominee in the same election.
 
+
+## 2. Nomination Period
+
+* 2.1\. Only Club Members are allowed to be nominees for an election.
+* 2.2\. The Election Committee shall prescribe a procedure for Club Members to follow in order to be nominated for the election.
+    * 2.2.1\. Any nomination of a Club Member to any available position shall be endorsed by a Proposer and a Seconder who must both be Club Members.
+    * 2.2.2\. A Club Member may be the Proposer for his/her own nomination.
+    * 2.2.3\. A Club Member shall not be the Seconder for his/her own nomination.
+* 2.3\. The Election Committee shall accept the nomination of any Club Member who follows the procedure mentioned in Clause 2.2. The Club Member whose nomination is accepted becomes an Election Nominee.
+* 2.4\. The Election Committee shall have the right to reject the nomination of any Club Member who deviates from the procedure mentioned in Clause 2.2.
+* 2.5\. Any Club Member whose nomination is rejected by the Election Committee shall have the right to a single appeal to the Election Committee. The Election Committee's decision following an appeal is final thereafter.
+* 2.6\. A Club Member may be nominated to at most one position in any particular election.
+* 2.7\. Nominees shall uphold the NUS Student Code of Conduct and NUS Statutes and Regulations during the election.
+* 2.8\. Nominees shall not buy votes from Club Members by any means of exchange and/or extort votes from Club Members by means of any kind of threat. to the Election Committee's satisfaction.
+* 2.9\. Any Nominee found to have contravened Clause 2.7 and/or 2.8 shall be referred by the Elections Committee to the incumbent MC's Presidential Cell for disciplinary action.
+* 2.10\. The opening and closing date of the Nomination Period shall be made known to all Club Members at least seven (7) days before the start of the Nomination Period.
