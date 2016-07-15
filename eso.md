@@ -23,6 +23,7 @@ This document shall be referred to as "ESO".
 * 0.1\. An election shall be held every calendar year for the purpose of filling newly-vacant positions in the MC at the end of a term of office.
 * 0.2\. An Election Committee shall be formed for the purpose of administering the election.
 * 0.3\. The election shall comprise, in its entirety, a Nomination Period, followed by a Campaigning Period, followed by a Polling Period, followed by a Vote Counting Period, followed by a day of announcement of election results. The Election Period begins with the Nomination Period and concludes with the announcement of election results.
+* 0.4\. For any given election, the ESO shall be bound by the Constitution in force at the exact time of the announcement of the Nomination Period in accordance with Clause 2.10.
 
 
 ## 1. Election Committee
