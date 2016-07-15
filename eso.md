@@ -97,7 +97,7 @@ This document shall be referred to as "ESO".
 * 4.5\. If there is exactly one Nominee for a position, the Nominee shall be deemed elected to that position if and only if he receives at least 75 votes and at least 75% of the votes he receives are votes of confidence.
 * 4.6\. In the event that two or more nominees are contesting a position and there is more than one nominee with the greatest net vote of confidence,
     * 4.6.1\. If the position in question is that of President, the incumbent President shall be allowed to cast the deciding vote.
-    * 4.6.2\. If the position in question is any position apart from President,
+    * 4.6.2\. If the position in question is any position except President,
         * 4.6.2.1\. If the President has been elected, the President-elect shall be allowed to cast the deciding vote.
         * 4.6.2.2\. If the President has not been elected, the incumbent President shall be allowed to cast the deciding vote.
 
