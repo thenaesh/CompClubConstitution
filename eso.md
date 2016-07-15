@@ -7,9 +7,9 @@ The NUS Students' Computing Club shall be referred to as "Computing Club". The t
 
 The Computing Club Constitution shall be referred to as "Constitution".
 
-The Computing Club Management Committee, as defined in Article IV of the Constitution, shall be referred to as "MC".
+The Computing Club Management Committee, as defined in the Constitution, shall be referred to as "MC".
 
-Members of Computing Club, as defined in Article III, Clauses 1 and 2 of the Constitution, shall be referred to as "Club Members".
+Members of Computing Club, as defined in the Constitution, shall be referred to as "Club Members".
 
 A Club Member who has been nominated in an election shall be referred to as "Nominee". The term "Candidate" shall be synonymous with "Nominee".
 
@@ -44,7 +44,7 @@ This document shall be referred to as "ESO".
     * 1.7.2\. To invalidate any vote that does not conform to the specifications as dictated by the ESO and/or the Election Committee.
 * 1.8\. The Election Committee shall announce the following seats to be filled 3 days before the commencement of the Nomination Period:
     * 1.8.1\. President, Vice-President (External Relations), Vice-President (Operations & Projects), Vice-President (Human Resource & Development), General Secretary, Finance Secretary
-    * 1.8.2\. All other elected appointments as specified in Article IV.2 of the Constitution
+    * 1.8.2\. All other elected appointments as specified in the Constitution
 * 1.9\. No member of the Election Committee for a particular election shall also be a nominee in the same election.
 * 1.10\. A decision shall be considered to have been made by the Election Committee if and only if said decision has been made by a majority vote among members of the Election Committee.
 
@@ -59,7 +59,7 @@ This document shall be referred to as "ESO".
 * 2.3\. The Election Committee shall accept the nomination of any Club Member who follows the procedure mentioned in Clause 2.2.
 * 2.4\. The Election Committee shall have the right to reject the nomination of any Club Member who deviates from the procedure mentioned in Clause 2.2.
 * 2.5\. Any Club Member whose nomination is rejected by the Election Committee shall have the right to a single appeal to the Election Committee. The Election Committee's decision following an appeal is final thereafter. The appeal must be submitted, in writing, to an Election Committee member.
-* 2.6\. Each nomination of a Club Member shall be for exactly one position in the MC as defined in Article IV.2 of the Constitution. A Club Member shall be nominated at most once in a given election.
+* 2.6\. Each nomination of a Club Member shall be for exactly one position in the MC as defined in the Constitution. A Club Member shall be nominated at most once in a given election.
 * 2.7\. Every Nominee shall uphold the ESO, Constitution, NUS Student Code of Conduct and NUS Statutes and Regulations during the election.
 * 2.8\. No Nominee shall buy votes from Club Members by any means of exchange and/or extort votes from Club Members by means of any kind of threat
 * 2.9\. Any Nominee found to have contravened Clause 2.7 and/or 2.8 shall be referred by the Elections Committee to the incumbent MC's Presidential Cell for disciplinary action.
@@ -108,7 +108,9 @@ This document shall be referred to as "ESO".
 * 5.1\. If any of the positions of President, Vice-President (External Relations), Vice-President (Operations & Projects), Vice-President (Human Resource & Development), General Secretary, and/or Finance Secretary are left vacant at the end of an election, by-elections shall be carried out until the position is filled.
 * 5.2\. If any position not listed in Clause 5.1 is left vacant at the end of an election, an attempt shall first be made to fill the position by co-opting. Should the position still be vacant after the attempt to fill the position by co-opting, by-elections shall be carried out until the position is filled.
     * 5.2.1\. Only Club Members otherwise eligible to be nominated for a position may be co-opted to that position.
-    * 5.2.2\. The process of co-opting for elected positions shall be the same as the process of co-opting Deputy Directors, as defined in Article IV.5 of the Constitution.
+    * 5.2.2\. A Club Member may be co-opted to a position by majority vote among members of the MC newly elected in the most recent election.
+    * 5.2.3\. A Club Member who has been co-opted to a position shall have all rights and responsibilities associated with the position, with the exception of the right to vote at meetings of the MC.
+    * 5.2.4\. A Club Member who has been co-opted to a position may be granted the right to vote in a particular meeting of the MC by a majority vote among elected MC members in the same meeting of the MC.
 * 5.3\. A by-election shall follow all the rules of an election as defined in the ESO, with the exception of the appointment of the Election Committee. The Election Committee for a given by-election shall be the same as that of the election or by-election directly preceding the aforementioned by-election.
 * 5.4\. Should an elected position be left vacant after an election, the member of the incumbent MC holding that position shall remain in office until aforementioned position is filled pursuant to either Clause 5.1 or Clause 5.2.
 
