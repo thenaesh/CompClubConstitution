@@ -70,9 +70,8 @@ This document shall be referred to as "ESO".
 * 3.1\. The start date and end date of the Campaigning Period shall be made known to all Election Nominees upon their successful nomination.
 * 3.2\. Any Nominee may display or give out campaign material subject to the following rules:
     * 3.2.1\. All campaign material of a Nominee shall be removed by that Nominee the end of the Campaigning Period.
-    * 3.2.2\. Every Nominee must submit his campaign material to the Election Committee for written approval prior to placing said campaign material. A Nominee who wishes to relocate his campaign materials must seek written approval again from the Election Committee prior to doing so..
+    * 3.2.2\. Every Nominee must submit his campaign material to the Election Committee for written approval prior to placing said campaign material. A Nominee who wishes to relocate his campaign materials must seek written approval again from the Election Committee prior to doing so.
     * 3.2.3\. Any Nominee may promote himself by giving out tokens/flyers as long as he, in the opinion of the Election Committee, does not contravene Clause 2.8. All such tokens/flyers must be presented before the Election Committee for written approval before they may be given out.
-    * 3.2.4\. 
 * 3.3\. A Nominee who wishes to give a speech in a lecture may do so only if he obtains prior permission from the lecturer.
 * 3.4\. The Election Committee may require all Nominees to speak at a General Meeting of the Club.
     * 3.4.1\. Every Nominee must be present and speak at this meeting if the Election Committee requires it.
