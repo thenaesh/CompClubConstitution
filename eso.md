@@ -46,7 +46,7 @@ This document shall be referred to as "ESO".
     * 1.8.1\. President, Vice-President (External Relations), Vice-President (Operations & Projects), Vice-President (Human Resource & Development), General Secretary, Finance Secretary
     * 1.8.2\. All other elected appointments as specified in Article IV.2 of the Constitution
 * 1.9\. No member of the Election Committee for a particular election shall also be a nominee in the same election.
-* 1.10\. A decision shall be considered to have been made by the Election Committee only when said decision has been made by a majority vote among members of the Election Committee.
+* 1.10\. A decision shall be considered to have been made by the Election Committee if and only if said decision has been made by a majority vote among members of the Election Committee.
 
 
 ## 2. Nomination
@@ -93,10 +93,10 @@ This document shall be referred to as "ESO".
     * 4.3.1\. The proxy shall be a Club Member.
     * 4.3.2\. Each Club Member shall be a proxy for at most two (2) Club members.
     * 4.3.3\. A Club Member who has chosen to vote by proxy shall not be allowed to cast a vote in person.
-* 4.4\. If two or more Nominees are contesting a position, the Nominee who receives a greatest net vote of confidence for that position shall be deemed elected to that position.
-    * 4.4.1\. The net vote of confidence for a Nominee for a particular position shall be defined as the number resulting from the subtraction of the number of votes of no confidence from the number of votes of confidence for that Nominee and position.
-* 4.5\. If there is exactly one Nominee for a position, the Nominee shall be deemed elected to that position if and only if he receives at least 75 votes and at least 75% of the votes he receives are votes of confidence.
-* 4.6\. In the event that two or more nominees are contesting a position and there is more than one nominee with the greatest net vote of confidence,
+* 4.4\. If two or more Nominees are contesting a position, the Nominee who receives the greatest net vote for that position shall be deemed elected to that position.
+    * 4.4.1\. The net vote for a Nominee for a particular position shall be defined as the number resulting from the subtraction of the number of votes of no confidence for that Nominee and position from the number of votes of confidence for that Nominee and position.
+* 4.5\. In the event that there is exactly one Nominee for a position, the Nominee shall be deemed elected to that position if and only if he receives at least 75 votes and at least 75% of the votes he receives are votes of confidence.
+* 4.6\. In the event that two or more nominees are contesting a position and there is more than one nominee with the greatest net vote,
     * 4.6.1\. If the position in question is that of President, the incumbent President shall be allowed to cast the deciding vote.
     * 4.6.2\. If the position in question is any position except President,
         * 4.6.2.1\. If the President has been elected, the President-elect shall be allowed to cast the deciding vote.
