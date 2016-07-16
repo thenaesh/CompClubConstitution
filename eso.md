@@ -13,6 +13,8 @@ Members of Computing Club, as defined in the Constitution, shall be referred to 
 
 A Club Member who has been nominated in an election shall be referred to as "Nominee". The term "Candidate" shall be synonymous with "Nominee".
 
+Throughout this document, "position" shall mean an elected MC appointment.
+
 Unless otherwise specified, all masculine pronouns used in this document refer equally to all persons.
 
 This document shall be referred to as "ESO".
