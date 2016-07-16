@@ -7,7 +7,7 @@ The NUS Students' Computing Club shall be referred to as "Computing Club". The t
 
 The Computing Club Constitution shall be referred to as "Constitution".
 
-The Computing Club Management Committee, as defined in the Constitution, shall be referred to as "MC".
+The Computing Club Management Committee, as defined in the Constitution, shall be referred to as "MC". This term shall refer to the office rather than a group of individuals unless explicitly mentioned otherwise.
 
 Members of Computing Club, as defined in the Constitution, shall be referred to as "Club Members".
 
