@@ -1,5 +1,10 @@
 \documentclass[12pt]{constitution}
 \usepackage{mathpazo}
+\usepackage{enumitem}
+
+\newlist{legal}{enumerate}{10}
+\setlist[legal]{label*=\arabic*.}
+
 
 \begin{document}
 	
@@ -12,6 +17,12 @@
 	\tableofcontents
 	\newpage
 	
-	\include{./articles/I}
+	\input{./articles/I}
+	\input{./articles/II}
+	\input{./articles/III}
+	\newpage
+	\input{./articles/IV}
+	\newpage
+	\input{./articles/V}
 	
 \end{document}
